@@ -1,0 +1,203 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch b5",
+            "request": "launch",
+            "mainClass": "C1.b5",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch b20",
+            "request": "launch",
+            "mainClass": "C1.b20",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch b19",
+            "request": "launch",
+            "mainClass": "C1.b19",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch b18",
+            "request": "launch",
+            "mainClass": "C1.b18",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch b17",
+            "request": "launch",
+            "mainClass": "C1.b17",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch b16",
+            "request": "launch",
+            "mainClass": "C1.b16",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch b15",
+            "request": "launch",
+            "mainClass": "C1.b15",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch b14",
+            "request": "launch",
+            "mainClass": "C1.b14",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch b13",
+            "request": "launch",
+            "mainClass": "C1.b13",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch b12",
+            "request": "launch",
+            "mainClass": "C1.b12",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch b11",
+            "request": "launch",
+            "mainClass": "C1.b11",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch b10",
+            "request": "launch",
+            "mainClass": "C1.b10",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch b9",
+            "request": "launch",
+            "mainClass": "C1.b9",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch b9",
+            "request": "launch",
+            "mainClass": "b9",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch b8",
+            "request": "launch",
+            "mainClass": "C1.b8",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch b7",
+            "request": "launch",
+            "mainClass": "C1.b7",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch b6",
+            "request": "launch",
+            "mainClass": "C1.b6",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch operators",
+            "request": "launch",
+            "mainClass": "C1.operators",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch bitwise_operator",
+            "request": "launch",
+            "mainClass": "C1.bitwise_operator",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch index",
+            "request": "launch",
+            "mainClass": "C1.index",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex1",
+            "request": "launch",
+            "mainClass": "C1.Ex1",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch b1",
+            "request": "launch",
+            "mainClass": "C1.b1",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch b2",
+            "request": "launch",
+            "mainClass": "C1.b2",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch b3",
+            "request": "launch",
+            "mainClass": "C1.b3",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch b4",
+            "request": "launch",
+            "mainClass": "C1.b4",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "C1.test",
+            "projectName": "BaiTapThayHa"
+        },
+        {
+            "type": "java",
+            "name": "Launch index",
+            "request": "launch",
+            "mainClass": "index",
+            "projectName": "BaiTapThayHa"
+        }
+    ]
+}
